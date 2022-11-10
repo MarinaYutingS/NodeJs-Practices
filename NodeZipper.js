@@ -1,6 +1,4 @@
-/**
- * Yuting Sha, c0842810
- */
+
 const fs = require('fs'), path = require('path');
 const args = process.argv; //pass cml arguments into js
 const admZip = require('adm-zip'); //npm install adm-zip
